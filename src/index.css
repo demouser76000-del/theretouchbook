@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", Garamond, Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    background-color: #dfdbd5;
+    color: #191816;
+    overflow-x: hidden;
+  }
+}
+
+.font-editorial {
+  font-family: "Cormorant Garamond", Garamond, Georgia, serif;
+}

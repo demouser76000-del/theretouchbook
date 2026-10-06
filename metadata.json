@@ -1,0 +1,6 @@
+{
+  "name": "The Retoucher Book",
+  "description": "Premium photo retouching & creative post-production studio crafting striking, refined and intentional visuals across fashion, beauty, advertising, and creative disciplines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
